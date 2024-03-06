@@ -31,7 +31,7 @@ class TextPrint(object):
 
 pygame.init()
 screen = pygame.display.set_mode((500, 700))
-pygame.display.set_caption("My Game")
+pygame.display.set_caption("Controller Test")
 done = False
 clock = pygame.time.Clock()
 pygame.joystick.init()
